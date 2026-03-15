@@ -1,3 +1,10 @@
+## Thành viên nhóm:
+
+| STT | Họ tên               |    MSSV    |
+| :-: | -------------------- | :--------: |
+|  1  | Nguyễn Thanh Thuận | 2351010203 |
+|  2  | Đặng Đăng Khôi | 2351010104 |
+
 # ASLDetection
 Dự án ASLDetection sử dụng mô hình học sâu (deep learning) để nhận diện các cử chỉ tay trong American Sign Language (ASL) từ webcam. 
 Mô hình được huấn luyện trên dữ liệu hình ảnh bàn tay
